@@ -92,6 +92,6 @@ I lose the running web server and its public IP address, which I cannot get back
 
 ## Sources and acknowledgements
 
-- Course material for the Cloud course.
+- Course material for the DevOps course.
 - AWS documentation: S3 Block Public Access, IAM roles for Amazon EC2, Lambda execution role, Lambda function URLs, EC2 instance metadata (IMDSv2), Amazon Linux 2023 (systemd timers), AWS IP address ranges (EC2 Instance Connect).
 - All resources were set up and tested in my own AWS account; the policies and scripts follow the patterns in the AWS documentation, adapted to my bucket, role and function names.
